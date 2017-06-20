@@ -1,0 +1,45 @@
+{"level":"info","message":"[Configuration Service] Env \u001b[36mdevelopment\u001b[0m","timestamp":"2017-06-20T02:36:54.490Z"}
+{"level":"info","message":"[Passport Service] Initialize","timestamp":"2017-06-20T02:36:54.493Z"}
+{"level":"info","message":"[Server Service] Initialize server","timestamp":"2017-06-20T02:36:54.670Z"}
+{"level":"info","message":"[Lib Server] Creating http server","timestamp":"2017-06-20T02:36:54.697Z"}
+{"level":"info","message":"[Lib Server] Server running:  {\n  \"address\": \"::\",\n  \"family\": \"IPv6\",\n  \"port\": 3030\n}","timestamp":"2017-06-20T02:36:54.705Z"}
+{"level":"info","message":"[Middleware] Incomming Request:  GET /auth/google/login ::1","timestamp":"2017-06-20T02:37:18.671Z"}
+{"level":"info","message":"[Middleware] Incomming Request:  GET /favicon.ico ::1","timestamp":"2017-06-20T02:37:18.781Z"}
+{"level":"info","message":"[Middleware] Incomming Request:  GET / ::1","timestamp":"2017-06-20T02:37:21.982Z"}
+{"level":"info","message":"[Configuration Service] Env \u001b[36mdevelopment\u001b[0m","timestamp":"2017-06-20T02:40:22.834Z"}
+{"level":"info","message":"[Passport Service] Initialize","timestamp":"2017-06-20T02:40:22.836Z"}
+{"level":"info","message":"[Server Service] Initialize server","timestamp":"2017-06-20T02:40:22.999Z"}
+{"level":"info","message":"[Lib Server] Creating http server","timestamp":"2017-06-20T02:40:23.023Z"}
+{"level":"info","message":"[Lib Server] Server running:  {\n  \"address\": \"::\",\n  \"family\": \"IPv6\",\n  \"port\": 3030\n}","timestamp":"2017-06-20T02:40:23.031Z"}
+{"level":"info","message":"[Configuration Service] Env \u001b[36mdevelopment\u001b[0m","timestamp":"2017-06-20T02:40:46.421Z"}
+{"level":"info","message":"[Passport Service] Initialize","timestamp":"2017-06-20T02:40:46.425Z"}
+{"level":"info","message":"[Server Service] Initialize server","timestamp":"2017-06-20T02:40:46.589Z"}
+{"level":"info","message":"[Lib Server] Creating http server","timestamp":"2017-06-20T02:40:46.614Z"}
+{"level":"info","message":"[Lib Server] Server running:  {\n  \"address\": \"::\",\n  \"family\": \"IPv6\",\n  \"port\": 3030\n}","timestamp":"2017-06-20T02:40:46.621Z"}
+{"level":"info","message":"[Middleware] Incomming Request:  GET / ::1","timestamp":"2017-06-20T02:40:48.755Z"}
+{"level":"info","message":"[Configuration Service] Env \u001b[36mdevelopment\u001b[0m","timestamp":"2017-06-20T02:41:35.647Z"}
+{"level":"info","message":"[Passport Service] Initialize","timestamp":"2017-06-20T02:41:35.649Z"}
+{"level":"info","message":"[Server Service] Initialize server","timestamp":"2017-06-20T02:41:35.800Z"}
+{"level":"info","message":"[Lib Server] Creating http server","timestamp":"2017-06-20T02:41:35.825Z"}
+{"level":"info","message":"[Lib Server] Server running:  {\n  \"address\": \"::\",\n  \"family\": \"IPv6\",\n  \"port\": 3030\n}","timestamp":"2017-06-20T02:41:35.831Z"}
+{"level":"info","message":"[Middleware] Incomming Request:  GET / ::1","timestamp":"2017-06-20T02:41:38.135Z"}
+{"level":"info","message":"[Middleware] Incomming Request:  GET / ::1","timestamp":"2017-06-20T02:43:21.857Z"}
+{"level":"info","message":"[Configuration Service] Env \u001b[36mdevelopment\u001b[0m","timestamp":"2017-06-20T02:59:36.407Z"}
+{"level":"info","message":"[Passport Service] Initialize","timestamp":"2017-06-20T02:59:36.410Z"}
+{"level":"info","message":"[Server Service] Initialize server","timestamp":"2017-06-20T02:59:36.579Z"}
+{"level":"info","message":"[Lib Server] Creating http server","timestamp":"2017-06-20T02:59:36.609Z"}
+{"level":"info","message":"[Lib Server] Server running:  {\n  \"address\": \"::\",\n  \"family\": \"IPv6\",\n  \"port\": 3030\n}","timestamp":"2017-06-20T02:59:36.616Z"}
+{"level":"info","message":"[Middleware] Incomming Request:  GET /main.js ::1","timestamp":"2017-06-20T02:59:50.502Z"}
+{"level":"info","message":"[Middleware] Incomming Request:  GET / ::1","timestamp":"2017-06-20T02:59:57.432Z"}
+{"level":"info","message":"[Middleware] Incomming Request:  GET / ::1","timestamp":"2017-06-20T03:00:35.358Z"}
+{"level":"info","message":"[Middleware] Incomming Request:  GET /js/main.js ::1","timestamp":"2017-06-20T03:00:35.398Z"}
+{"level":"info","message":"[Middleware] Incomming Request:  GET / ::1","timestamp":"2017-06-20T03:00:38.007Z"}
+{"level":"info","message":"[Middleware] Incomming Request:  GET /js/main.js ::1","timestamp":"2017-06-20T03:00:38.047Z"}
+{"level":"info","message":"[Configuration Service] Env \u001b[36mdevelopment\u001b[0m","timestamp":"2017-06-20T03:00:59.257Z"}
+{"level":"info","message":"[Passport Service] Initialize","timestamp":"2017-06-20T03:00:59.259Z"}
+{"level":"info","message":"[Server Service] Initialize server","timestamp":"2017-06-20T03:00:59.445Z"}
+{"level":"info","message":"[Lib Server] Creating http server","timestamp":"2017-06-20T03:00:59.494Z"}
+{"level":"info","message":"[Lib Server] Server running:  {\n  \"address\": \"::\",\n  \"family\": \"IPv6\",\n  \"port\": 3030\n}","timestamp":"2017-06-20T03:00:59.500Z"}
+{"level":"info","message":"[Middleware] Incomming Request:  GET / ::1","timestamp":"2017-06-20T03:01:00.420Z"}
+{"level":"info","message":"[Middleware] Incomming Request:  GET / ::1","timestamp":"2017-06-20T03:09:43.958Z"}
+{"level":"info","message":"[Middleware] Incomming Request:  GET / ::1","timestamp":"2017-06-20T03:10:02.649Z"}

@@ -1,0 +1,37 @@
+{
+  "name"        : "Search",
+  "description" : "search",
+  "author"      : "Narciso Guillen <guillen.narciso@gmail.com>",
+  "license"     : "MIT",
+  "version"     : "0.0.1",
+
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+
+ "engines" : {
+   "node" : "7.6.0",
+   "npm"  : "4.1.2"
+  },
+
+  "scripts" : {
+    "start" : "node app"
+  },
+
+  "dependencies" : {
+    "express"         : "4.14.x" ,
+    "body-parser"     : "1.16.x" ,
+    "express-session" : "1.15.x" ,
+    "passport"        : "0.3.x"  ,
+    "passport-local"  : "1.0.x"  ,
+    "underscore"      : "1.8.x"  ,
+    "winston"         : "2.3.x"  ,
+    "nconf"           : "0.8.x"  ,
+    "bluebird"        : "3.4.x"  ,
+    "pug"             : "2.0.0-rc.2"
+  },
+
+  "devDependencies" : { }
+
+}

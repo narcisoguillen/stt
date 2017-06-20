@@ -1,0 +1,21 @@
+{
+
+  "log" : "log/current.log",
+
+  "session" : {
+    "key"    : "some.secret.key.sid",
+    "secret" : "shh.a.secret",
+    "resave" : true,
+    "cookie" : {
+      "httpOnly" : false,
+      "expires"  : false
+    },
+    "saveUninitialized": true
+  },
+
+  "server" : {
+    "PORT" : 3030,
+    "ssl"  : false
+  }
+
+}
