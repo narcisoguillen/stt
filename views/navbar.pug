@@ -1,0 +1,43 @@
+header.site-header
+  .nav-container
+    nav#site-navigation.main-navigation.outOfSight.fixed.scrolled(role='navigation')
+      .container.nav-bar
+        .row
+          .module.left.site-title-container
+            a(href='https://colorlib.com/shapely/')
+              span.site-title Laia.io
+          .module.widget-handle.mobile-toggle.right.visible-sm.visible-xs
+            i.fa.fa-bars
+          .module-group.right
+            .module.left
+              .collapse.navbar-collapse.navbar-ex1-collapse
+                ul#menu.menu
+                  li.menu-item.menu-item-type-custom.menu-item-object-custom.current-menu-item.current_page_item.menu-item-home.active
+                    a(href='/') Home
+                  li.menu-item.menu-item-type-post_type.menu-item-object-page
+                    a(href='https://github.com/narcisoguillen/stt') Github
+                  li.menu-item.menu-item-type-custom.menu-item-object-custom
+                    a(href='https://www.linkedin.com/in/narciso-guillen-86b9092b/') Linkedin
+                  li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.dropdown
+                    a.dropdown-toggle(href='#', data-toggle='dropdown') About The Server
+                    ul.dropdown-menu(role='menu')
+                      li.menu-item.menu-item-type-post_type.menu-item-object-page
+                        a(href='http://expressjs.com/') Express
+                      li.menu-item.menu-item-type-post_type.menu-item-object-page
+                        a(href='http://passportjs.org/') Passport
+                      li.menu-item.menu-item-type-post_type.menu-item-object-page
+                        a(href='https://www.mongodb.com/') MongoDB
+                      li.menu-item.menu-item-type-post_type.menu-item-object-page
+                        a(href='https://prerender.io/') Prerender
+            // end of menu module
+            .module.widget-handle.search-widget-handle.left.hidden-xs.hidden-sm
+              .search
+                i.fa.fa-search
+              .function
+                form.search-form
+                  label.screen-reader-text Search for:
+                  input(type='text', placeholder='Type Here', value='')
+                  input.btn.btn-fillded.searchsubmit(type='submit', value='Search')
+
+          // end of module group
+    // #site-navigation
